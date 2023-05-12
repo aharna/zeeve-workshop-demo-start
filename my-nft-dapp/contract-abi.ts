@@ -1,2 +1,2 @@
 
-export const abi= [<add your generated abi here>]
+export const abi= [<add your generated abi right here>]

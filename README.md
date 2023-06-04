@@ -7,11 +7,11 @@ The DApp provides a user-friendly interface where users can connect their wallet
 
 ## Prerequisites
 
-Before running the DApp, make sure you have the following:
+Before running the dApp, make sure you have the following:
 
 - A compatible web browser (Chrome, Firefox, Brave, etc.).
 - A cryptocurrency wallet (e.g., MetaMask) installed and configured with the desired blockchain network (we will use Polygon mumbai).
-- [Setting up Zeeve RPC endpoints](https://github.com/aharna/zeeve-workshop-demo/edit/main/RPC.md)
+- [Setting up Zeeve RPC endpoints](https://github.com/aharna/zeeve-workshop-demo-start/edit/main/RPC.md)
 
 ## Installation
 

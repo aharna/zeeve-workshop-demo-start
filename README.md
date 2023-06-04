@@ -11,7 +11,7 @@ Before running the dApp, make sure you have the following:
 
 - A compatible web browser (Chrome, Firefox, Brave, etc.).
 - A cryptocurrency wallet (e.g., MetaMask) installed and configured with the desired blockchain network (we will use Polygon mumbai).
-- [Setting up Zeeve RPC endpoints](https://github.com/aharna/zeeve-workshop-demo-start/edit/main/RPC.md)
+- [Setting up Zeeve RPC endpoints](https://github.com/aharna/zeeve-workshop-demo-start/RPC.md)
 
 ## Installation
 
